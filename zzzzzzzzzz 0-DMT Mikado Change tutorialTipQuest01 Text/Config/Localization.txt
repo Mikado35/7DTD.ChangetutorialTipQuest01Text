@@ -1,0 +1,4 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,french
+
+alt_tutorialTipQuest01,Journal Tip,,,,"A simple mission he said! Bullshit! Fisher, the pilot was infected! He became enraged. He threw himself on me, I jumped just in time to avoid the crash! All my gear is scattered, I'm in bad shape","Une simple mission qu'il disait ! Connerie ! Fisher, le pilote était infecté ! Il est devenu enragé. Il s'est jeté sur moi, j'ai sauté juste à temps pour éviter le crash ! Tout mon équipement est éparpillé, je suis mal en point !"
+alt_tutorialTipQuest01_title,Journal Tip,,,,A simple mission,Une simple mission

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <ModInfo>
+    <Name value="zzzzzzzzzz 0-DMT Mikado Change tutorialTipQuest01 Text" />
+    <Description value="Change tutorialTipQuest01 Text" />
+    <Author value="Mikado" />
+    <Version value="1.0" />
+    <Website value="" />
+  </ModInfo>
+  <DMT>
+    <dependencies />
+    <conflicts />
+  </DMT>
+</xml>
